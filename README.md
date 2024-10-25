@@ -3,8 +3,7 @@
 
 
 
-🔥🔥🔥 **Improving Causal Reasoning in Large Language Models: A Survey**  
-**[Project Page [This Page]](https://github.com/chendl02/Awesome-LLM-Causal-Reasoning)** 
+🔥🔥🔥 **Improving Causal Reasoning in Large Language Models: A Survey** **[[Paper]](https://arxiv.org/abs/2410.16676)** **[[code]]()** 
 
 In this survey, we provide a comprehensive review of research aimed at enhancing LLMs for causal reasoning (CR). We categorize existing methods based on the role of LLMs: either as *<u>reasoning engines</u>* or as *<u>helpers</u>* providing knowledge or data to traditional CR methods, followed by a detailed discussion of the methodologies in each category. We then evaluate the performance of LLMs on various causal reasoning tasks, providing key findings and in-depth analysis. Finally, we provide insights from current studies and highlight promising directions for future research.
 
