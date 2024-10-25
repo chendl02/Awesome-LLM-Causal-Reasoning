@@ -1,6 +1,9 @@
 # Awesome-LLM-Causal-Reasoning
 
 
+<p align="center">
+  <img src='https://raw.githubusercontent.com/chendl02/Awesome-LLM-Causal-Reasoning/main/misc/intro.jpg' width=600>
+</p>
 
 
 🔥🔥🔥 **Improving Causal Reasoning in Large Language Models: A Survey** **[[Paper]](https://arxiv.org/abs/2410.16676)**
