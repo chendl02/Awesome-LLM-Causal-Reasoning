@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/chendl02/Awesome-LLM-Causal-Reasoning/main/misc/intro.jpg' width=600>
+  <img src='https://raw.githubusercontent.com/chendl02/Awesome-LLM-Causal-Reasoning/main/misc/intro.jpg' width=500>
 </p>
 
 
@@ -33,6 +33,10 @@ We provide a comprehensive review of research aimed at enhancing LLMs for causal
 
 
 ## LLMs as Reasoning Engines
+
+<p align="center">
+  <img src='https://raw.githubusercontent.com/chendl02/Awesome-LLM-Causal-Reasoning/main/misc/engine.jpg' width=1000>
+</p>
 
 **[C2P: Featuring Large Language Models with Causal Reasoning](https://arxiv.org/abs/2407.18069)**
 
@@ -92,6 +96,9 @@ We provide a comprehensive review of research aimed at enhancing LLMs for causal
 
 
 ## LLMs as Helper
+<p align="center">
+  <img src='https://raw.githubusercontent.com/chendl02/Awesome-LLM-Causal-Reasoning/main/misc/helper.jpg' width=500>
+</p>
 
 **[LLM-Enhanced Causal Discovery in Temporal Domain from Interventional Data](https://arxiv.org/abs/2404.14786v1)**
 
@@ -117,7 +124,11 @@ We provide a comprehensive review of research aimed at enhancing LLMs for causal
 
 *Ieva Staliūnaitė, Philip John Gorinski, Ignacio Iacobacci.* Preprint'2021
 
+
 # Datasets
+<p align="center">
+  <img src='https://raw.githubusercontent.com/chendl02/Awesome-LLM-Causal-Reasoning/main/misc/RadarChart.png' width=400>
+</p>
 
 ## Causality Discovery
 
