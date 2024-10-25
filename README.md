@@ -170,3 +170,15 @@ In this survey, we provide a comprehensive review of research aimed at enhancing
 **[CRASS: A Novel Data Set and Benchmark to Test Counterfactual Reasoning of Large Language Models](https://aclanthology.org/2022.lrec-1.229.pdf)**
 
 *Jörg Frohberg, Frank Binder.* LREC'2022
+
+
+
+# Citation
+```
+@article{xiong2024improving,
+  title={Improving Causal Reasoning in Large Language Models: A Survey},
+  author={Xiong, Siheng and Chen, Delin and Wu, Qingyang and Yu, Longxuan and Liu, Qingzhen and Li, Dawei and Chen, Zhikai and Liu, Xiaoze and Pan, Liangming},
+  journal={arXiv preprint arXiv:2410.16676},
+  year={2024}
+}
+```
