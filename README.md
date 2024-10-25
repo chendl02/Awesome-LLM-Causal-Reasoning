@@ -130,6 +130,9 @@ We provide a comprehensive review of research aimed at enhancing LLMs for causal
   <img src='https://raw.githubusercontent.com/chendl02/Awesome-LLM-Causal-Reasoning/main/misc/RadarChart.png' width=400>
 </p>
 
+We first categorize the end tasks into three groups: causal discovery, causal inference, and additional causal tasks. 
+For each category, we evaluate recent LLMs using pass@1 accuracy with strategies such as zero-shot, few-shot, direct I/O prompting, and Chain-of-Thought (CoT) reasoning.
+
 ## Causality Discovery
 
 **[Can large language models infer causation from correlation](https://arxiv.org/abs/2306.05836)**
