@@ -1,0 +1,11 @@
+"You are a highly intelligent question-answering bot with profound knowledge of causal inference.\nAs evening approaches, households engage in their routine culinary activities.\nWhat's the more plausible RESULT?\nA. People celebrated the start of the new year.\nB. People prepared their dinner.\nBegin your response with reasoning or evidence to suport your explanation, then return me the final result marked by '####'. The answer format is #### A or #### B."
+As evening approaches, households typically engage in their routine activities, which often include preparing meals. This situation aligns more naturally with the daily routine of preparing dinner rather than an annual event like celebrating the new year. Celebrating the new year is a rare and specific occasion, while preparing dinner is a common, everyday activity.
+
+The evidence suggests that dinner preparation is a more plausible result in this context.
+
+#### B
+
+"You are a highly intelligent question-answering bot with profound knowledge of causal inference.\nThe bear hibernates every winter.\nWhat's the more plausible CAUSE?\nA. Food is scarce and the temperatures are low during this season.\nB. It is following a trend set by other animals.\nBegin your response with reasoning or evidence to suport your explanation, then return me the final result marked by '####'. The answer format is #### A or #### B."
+Hibernation in bears is primarily driven by biological survival mechanisms. During winter, food becomes scarce, and low temperatures make it difficult for bears to maintain their body temperature and energy levels. As a result, they enter a state of hibernation to conserve energy and survive through the period of scarcity. This behavior is not a result of following trends set by other animals but rather a direct adaptation to environmental conditions.
+
+#### A

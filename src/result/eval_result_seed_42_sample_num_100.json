@@ -1,0 +1,713 @@
+[
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.72,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.69,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.79,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.61,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.81,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.79,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.7,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.99,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "copa"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 1.0,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "copa"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 1.0,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "copa"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 1.0,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "copa"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.42,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "crab"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.45,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "crab"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.33,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "crab"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.37,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "crab"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 1.0,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "crass"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.9833333333333333,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "crass"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.95,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "crass"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.9833333333333333,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "crass"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.9,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "e_care"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.87,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "e_care"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.85,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "e_care"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.86,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "e_care"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.61,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "moca"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.6,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "moca"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.61,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "moca"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.83,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.57,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "moca"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.99,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "copa"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.73,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "pain"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.72,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "pain"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.56,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "pain"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.67,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "pain"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.87,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "tram"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.88,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "tram"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.84,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "tram"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.85,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "tram"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.49,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "corr2cause"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.53,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "corr2cause"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.47,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "corr2cause"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 1.0,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "copa"
+  },
+  {
+    "model_name": "gpt-4o",
+    "accuracy": 0.49,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "corr2cause"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.98,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "copa"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.99,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "copa"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.9833333333333333,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "crass"
+  },
+  {
+    "model_name": "google/gemma-2-27b-it",
+    "accuracy": 0.59,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "google/gemma-2-9b-it",
+    "accuracy": 0.57,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "google/gemma-2-27b-it",
+    "accuracy": 0.64,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "google/gemma-2-9b-it",
+    "accuracy": 0.54,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "google/gemma-2-27b-it",
+    "accuracy": 0.61,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "google/gemma-2-9b-it",
+    "accuracy": 0.58,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "google/gemma-2-27b-it",
+    "accuracy": 0.63,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "cladder"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.58,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "crab"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.6,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "crab"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.57,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "crab"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.56,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "crab"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.95,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "crass"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.95,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "crass"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.9833333333333333,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "crass"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.86,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "e_care"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.9,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "e_care"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.72,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "e_care"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.84,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "e_care"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.59,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "moca"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.64,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "moca"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.42,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "moca"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.62,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "moca"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.71,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "pain"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.71,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "pain"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.63,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "pain"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.68,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "pain"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.88,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "tram"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.85,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "tram"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.84,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "tram"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.84,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "tram"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.35,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": true,
+    "dataset_name": "corr2cause"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.43,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": true,
+    "direct_io_flag": false,
+    "dataset_name": "corr2cause"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.45,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": true,
+    "dataset_name": "corr2cause"
+  },
+  {
+    "model_name": "claude-3-5-sonnet-20240620",
+    "accuracy": 0.47,
+    "seed": 42,
+    "sample_size": 100,
+    "few_shot_flag": false,
+    "direct_io_flag": false,
+    "dataset_name": "corr2cause"
+  }
+]

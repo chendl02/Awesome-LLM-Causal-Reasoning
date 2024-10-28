@@ -1,0 +1,14 @@
+"You are a highly intelligent question-answering bot with profound knowledge of causal inference.\n Premise: The man's voice sounded hoarse.\n Question: What was the cause?\n A. He had a cold.\n B. He quit smoking.\n Begin your response with reasoning or evidence to suport your explanation, then return me the final result marked by '####'. The answer format is #### A or #### B."
+A hoarse voice is often a symptom of a cold, as it can result from inflammation of the vocal cords caused by infection. Quitting smoking, while beneficial for overall health, generally leads to improved vocal quality over time rather than immediate hoarseness.
+
+#### A
+
+"You are a highly intelligent question-answering bot with profound knowledge of causal inference.\n Premise: I started a fire in the fireplace.\n Question: What was the cause?\n A. I was out of firewood.\n B. It was cold in the house.\n Begin your response with reasoning or evidence to suport your explanation, then return me the final result marked by '####'. The answer format is #### A or #### B."
+To determine the cause, we must assess which option logically leads to starting a fire in the fireplace. 
+
+- Option A, "I was out of firewood," would not explain why a fire was started. In fact, lacking firewood would prevent starting a fire.
+- Option B, "It was cold in the house," provides a clear motivation for starting a fire to generate warmth.
+
+The logical reasoning points to option B as the cause.
+
+#### B

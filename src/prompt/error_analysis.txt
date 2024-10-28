@@ -1,0 +1,88 @@
+---
+
+## **1. Statistical Errors**
+
+Statistical errors arise from flaws in the data collection, measurement, or analysis processes. These errors can distort the relationships between variables, leading to incorrect causal inferences.
+
+### **a. Confounding**
+
+**Definition:**  
+Confounding occurs when an extraneous variable, known as a confounder, influences both the independent (cause) and dependent (effect) variables, thereby creating a spurious association between them.
+
+**Example:**  
+Suppose a study finds that higher coffee consumption is associated with increased heart disease. However, smoking is a confounder if it is related to both coffee consumption and heart disease. Failing to account for smoking can lead to the incorrect conclusion that coffee consumption directly causes heart disease.
+
+### **b. Selection Bias**
+
+**Definition:**  
+Selection bias arises when the sample selected for analysis is not representative of the population intended to be analyzed, leading to biased estimates of causal effects.
+
+**Example:**  
+If a clinical trial for a new medication only includes participants who are healthy and excludes those with comorbid conditions, the results may not generalize to the broader population that includes individuals with those conditions.
+
+### **c. Measurement Error**
+
+**Definition:**  
+Measurement error refers to inaccuracies in how variables are measured or recorded. This can be due to faulty instruments, respondent misunderstandings, or data entry mistakes, leading to incorrect assessments of relationships between variables.
+
+**Example:**  
+In a survey measuring physical activity, if participants consistently overreport their exercise frequency due to social desirability bias, the relationship between physical activity and health outcomes may be misestimated.
+
+---
+
+## **2. Logical Errors**
+
+Logical errors pertain to flaws in the reasoning process when drawing causal inferences. These errors often involve misinterpretations or incorrect applications of logical principles.
+
+### **a. Directionality**
+
+**Definition:**  
+Directionality errors occur when the causal direction between variables is incorrectly identified, meaning the cause and effect are reversed or the relationship is bidirectional without proper distinction.
+
+**Example:**  
+Assuming that stress causes insomnia when, in reality, insomnia may lead to increased stress levels. Misidentifying the direction can lead to ineffective interventions.
+
+### **b. Inconsistency**
+
+**Definition:**  
+Inconsistency involves contradictory reasoning or logic within a causal analysis. This can manifest as conflicting statements, unsupported jumps in logic, or lack of coherence in the argumentation.
+
+**Example:**  
+A study may claim that exercise reduces depression based on correlational data but simultaneously dismisses any causal relationship without providing a logical basis, leading to an inconsistent argument.
+
+### **c. Generalization**
+
+**Definition:**  
+Generalization errors occur when conclusions drawn from specific cases are inappropriately extended to broader contexts without sufficient justification, often overlooking contextual differences or unobserved variables.
+
+**Example:**  
+Concluding that a teaching method effective in one classroom will work universally in all educational settings ignores variations in student populations, resources, and cultural factors.
+
+---
+
+## **3. Probabilistic Errors**
+
+Probabilistic errors involve mistakes in handling probabilities and statistical inferences, affecting how uncertainty and likelihoods are interpreted in causal reasoning.
+
+### **a. Bayesian Inference**
+
+**Definition:**  
+Errors in Bayesian inference involve incorrect application of Bayesian principles, such as improper selection of prior probabilities, flawed updating of beliefs with new evidence, or misinterpretation of posterior probabilities.
+
+**Example:**  
+Starting with an unreasonably high prior probability for a hypothesis without empirical justification can skew the posterior probability, leading to misleading conclusions even when new evidence is strong.
+
+### **b. Comparison of Probabilities**
+
+**Definition:**  
+This error pertains to the improper comparison of probabilities, such as failing to consider the base rates, misunderstanding conditional probabilities, or neglecting the context in which probabilities are evaluated.
+
+**Example:**  
+Comparing the probability of having a disease given a positive test result without considering the overall prevalence of the disease can lead to incorrect assessments of the test’s accuracy (e.g., ignoring base rates in Bayes' Theorem).
+
+---
+
+- **Statistical Errors** focus on data-related flaws.
+- **Logical Errors** address reasoning and inferential mistakes.
+- **Probabilistic Errors** deal with the handling and interpretation of uncertainty and likelihoods.
+

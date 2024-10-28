@@ -1,0 +1,18 @@
+"You are a highly intelligent question-answering bot with profound knowledge of causal inference.\nTom wants to go to space.\nA. He aspired to be an astronaut.\nB. He aspired to be a calligrapher.\nWhich of the following is more likely to be true?\nBegin your response with reasoning or evidence to suport your explanation, then return me the final result marked by '####'. The answer format is #### A or #### B."
+Since Tom wants to go to space, the likelihood of this aspiration aligning with a related field or interest is greater. Aspiring to be an astronaut is directly connected to space exploration, and people who want to go to space typically have a background or interest in relevant fields such as science, engineering, or aeronautics.
+
+Aspiring to be a calligrapher, while a valuable skill, does not naturally correlate with a desire to go to space, as it is unrelated to space exploration or the skill sets typically required for such an endeavor.
+
+#### A
+
+"You are a highly intelligent question-answering bot with profound knowledge of causal inference.\nThe researchers conducted cloning experiments.\nA. The researcher observed that the drones mated with the queen.\nB. Some people were responsible for producing genetic copies.\nWhich of the following is more likely to be true?\nBegin your response with reasoning or evidence to suport your explanation, then return me the final result marked by '####'. The answer format is #### A or #### B."
+
+Reasoning: 
+
+Statement A describes an observable natural behavior, where drones (male bees) mate with a queen bee. This is a well-known biological phenomenon in bee reproduction and is not inherently related to cloning.
+
+Statement B, however, implies that some individuals were responsible for producing genetic copies, which directly connects to cloning, as cloning involves creating genetic replicas. Therefore, this statement aligns more closely with the concept of cloning experiments.
+
+Given the context of cloning experiments, the more relevant and likely scenario is that individuals were involved in producing genetic copies, which directly pertains to cloning.
+
+#### B
