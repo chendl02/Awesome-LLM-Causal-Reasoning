@@ -6,7 +6,7 @@
 </p>
 
 
-🔥🔥🔥 **[NAACL 25 (main)] Improving Causal Reasoning in Large Language Models: A Survey** **[[Paper]](https://arxiv.org/abs/2410.16676)**
+🔥🔥🔥 **[NAACL 25 (main)] CausalBench: Towards Better Causal Reasoning in Language Models** **[[Paper]](https://arxiv.org/abs/2410.16676)**
 
 
 
