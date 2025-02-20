@@ -206,9 +206,9 @@ To acclearate the process, run the bash script `run_all.sh` to generate the resu
 
 # Citation
 ```
-@article{xiong2024improving,
-  title={Improving Causal Reasoning in Large Language Models: A Survey},
-  author={Xiong, Siheng and Chen, Delin and Wu, Qingyang and Yu, Longxuan and Liu, Qingzhen and Li, Dawei and Chen, Zhikai and Liu, Xiaoze and Pan, Liangming},
+@article{yu2024improving,
+  title={Improving causal reasoning in large language models: A survey},
+  author={Yu, Longxuan and Chen, Delin and Xiong, Siheng and Wu, Qingyang and Liu, Qingzhen and Li, Dawei and Chen, Zhikai and Liu, Xiaoze and Pan, Liangming},
   journal={arXiv preprint arXiv:2410.16676},
   year={2024}
 }
