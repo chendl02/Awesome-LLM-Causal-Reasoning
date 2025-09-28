@@ -206,10 +206,27 @@ To acclearate the process, run the bash script `run_all.sh` to generate the resu
 
 # Citation
 ```
-@article{yu2024improving,
-  title={Improving causal reasoning in large language models: A survey},
-  author={Yu, Longxuan and Chen, Delin and Xiong, Siheng and Wu, Qingyang and Liu, Qingzhen and Li, Dawei and Chen, Zhikai and Liu, Xiaoze and Pan, Liangming},
-  journal={arXiv preprint arXiv:2410.16676},
-  year={2024}
+@inproceedings{yu-etal-2025-causaleval,
+    title = "{C}ausal{E}val: Towards Better Causal Reasoning in Language Models",
+    author = "Yu, Longxuan  and
+      Chen, Delin  and
+      Xiong, Siheng  and
+      Wu, Qingyang  and
+      Li, Dawei  and
+      Chen, Zhikai  and
+      Liu, Xiaoze  and
+      Pan, Liangming",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.622/",
+    pages = "12512--12540",
+    ISBN = "979-8-89176-189-6",
+    abstract = "Causal reasoning (CR) is a crucial aspect of intelligence, essential for problem-solving, decision-making, and understanding the world. While language models (LMs) can generate rationales for their outputs, their ability to reliably perform causal reasoning remains uncertain, often falling short in tasks requiring a deep understanding of causality. In this paper, we introduce CausalEval, a comprehensive review of research aimed at enhancing LMs for causal reasoning, coupled with an empirical evaluation of current models and methods. We categorize existing methods based on the role of LMs: either as reasoning engines or as helpers providing knowledge or data to traditional CR methods, followed by a detailed discussion of methodologies in each category. We then assess the performance of current LMs and various enhancement methods on a range of causal reasoning tasks, providing key findings and in-depth analysis. Finally, we present insights from current studies and highlight promising directions for future research. We aim for this work to serve as a comprehensive resource, fostering further advancements in causal reasoning with LMs."
 }
 ```
