@@ -38,6 +38,10 @@ We provide a comprehensive review of research aimed at enhancing LLMs for causal
   <img src='https://raw.githubusercontent.com/chendl02/Awesome-LLM-Causal-Reasoning/main/misc/engine.jpg' width=1000>
 </p>
 
+**[Graph of States: Solving Abductive Tasks with Large Language Models](https://arxiv.org/abs/2603.21250)**
+
+*Yu Luo et al.* ICML'2026
+
 **[C2P: Featuring Large Language Models with Causal Reasoning](https://arxiv.org/abs/2407.18069)**
 
 *Abdolmahdi Bagheri, Matin Alinejad, Kevin Bello, Alireza Akhondi-Asl.* Preprint'24
